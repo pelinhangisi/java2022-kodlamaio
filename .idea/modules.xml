@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/intro/intro.iml" filepath="$PROJECT_DIR$/intro/intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java2022-kodlamaio.iml" filepath="$PROJECT_DIR$/.idea/java2022-kodlamaio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week-1-assesments/week-1-assesments.iml" filepath="$PROJECT_DIR$/week-1-assesments/week-1-assesments.iml" />
     </modules>
   </component>
 </project>
