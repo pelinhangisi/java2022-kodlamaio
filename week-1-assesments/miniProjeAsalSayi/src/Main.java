@@ -1,8 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-
-	    int number = -2;
+        int number = -2;
         int remainder = number % 2;
         System.out.println(remainder);
         boolean isPrime = true;
