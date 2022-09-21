@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/arkadasSayilar/arkadasSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/dataTypes/dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/mukemmelSayi/mukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/recapDemo2/recapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesliHarfler/sesliHarfler.iml" filepath="$PROJECT_DIR$/sesliHarfler/sesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/week-1-assesments.iml" filepath="$PROJECT_DIR$/.idea/week-1-assesments.iml" />
+    </modules>
+  </component>
+</project>
