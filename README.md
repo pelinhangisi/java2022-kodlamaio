@@ -12,3 +12,11 @@ https://www.youtube.com/watch?v=a8Fe2qbnYDM&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4U
 
 Watch and practice all lessons 1-23 in this playlist (including 1-23). 
 You can use Intellij, netbeans or eclipse.
+
+<hr>
+
+# 21.09.2022 Java Camp Second Day
+
+The second day was based on Inheritance.Models and Getter setter methods processed.
+
+    * Variables-Conditionals-Loop-Array-Inheritance
