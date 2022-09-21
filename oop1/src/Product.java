@@ -1,9 +1,8 @@
 
 
-
 public class Product {
-    private String name;
 
+    private String name;
     private double unitPrice;
     private double discount;
     private String imageUrl;
