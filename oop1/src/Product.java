@@ -1,9 +1,9 @@
 
 
-//PascalCase
+
 public class Product {
     private String name;
-    //camelCase
+
     private double unitPrice;
     private double discount;
     private String imageUrl;
