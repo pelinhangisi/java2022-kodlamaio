@@ -29,3 +29,14 @@ https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4U
 
 Watch and practice all lessons 24-37 in this playlist (including 24-37).
 You can use Intellij, netbeans or eclipse.
+
+<hr>
+
+# 05.10.2022 Java Camp Third Day
+
+nlayered architecture was introduced. 
+* dataAccess
+* business
+* entities
+* core - logging
+layers processed. 
