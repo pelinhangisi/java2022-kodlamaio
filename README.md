@@ -40,3 +40,52 @@ nlayered architecture was introduced.
 * entities
 * core - logging
 layers processed. 
+
+<hr>
+
+# Week-3 Assesments
+
+* Assesment 1: 
+  * https://www.youtube.com/watch?v=H3QOQRh8cgk&list=PLqG356ExoxZWfcrBP53Njxir4a-OgqRki&index=2 
+
+    The project in this video was written in C#. You watch this video and write it in Java. <br>
+  
+<br>
+
+* Assesment 2: 
+  * https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8
+
+    Watch and apply this playlist again from lesson 33 to the end.
+  
+<br>
+
+* Assesment 3: 
+  * We want to code the instructor, category and course sections on the main page of the kodlama.io website in a layered architecture.
+  * Simulate as if you wrote it on both jdbc and hibernate with the techniques we did in the previous lesson.
+  * Simulate the multi-logging structure.
+  * Perform the following requests.
+    * Course name cannot be repeated
+    * Category name cannot be repeated
+    * The price of a course cannot be less than 0 <br>
+
+<br>
+
+* Assesment 4:
+  * Open an account on Medium.com
+  * Write an article describing value and reference types in Java for someone who is not familiar with it.
+  * Write another article explaining interfaces in Java to someone who doesn't know. <br>
+
+<br>
+
+* Assesment 5:
+  * Sql is something that a programmer must know. 
+  * Watch and apply the video below. <br>
+    https://www.youtube.com/watch?v=r_pbdopB4LU&list=PLqG356ExoxZVN7rC0KmMo0lvECK97VRZg&index=6  <br>
+
+<br>
+
+* Assesment 6: 
+  * The playlist below is very important. Watch and apply in excel. <br>
+    https://www.youtube.com/watch?v=4U54EVknm2Q&list=PLqG356ExoxZXZQt9edXkCS-_dunCq-bXm
+
+<hr>
