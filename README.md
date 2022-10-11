@@ -4,6 +4,8 @@ The first day was based on Java basics. <br>
 
     * String, int, arrays, loop, if-else
 
+[Lessons code => intro file](https://github.com/pelinhangisi/java2022-kodlamaio/tree/master/intro)
+
 <hr>
 
 # Week-1 Assesments
@@ -20,6 +22,8 @@ You can use Intellij, netbeans or eclipse.
 The second day was based on Inheritance.Models and Getter setter methods processed.
 
     * Variables-Conditionals-Loop-Array-Inheritance
+
+[Lessons code => oop1 file](https://github.com/pelinhangisi/java2022-kodlamaio/tree/master/oop1)
 
 <hr>
 
@@ -40,6 +44,8 @@ nlayered architecture was introduced.
 * entities
 * core - logging
 layers processed. 
+
+[Lessons code => oopWithNLayeredApp file](https://github.com/pelinhangisi/java2022-kodlamaio/tree/master/oopWithNLayeredApp)
 
 <hr>
 
