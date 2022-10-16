@@ -38,7 +38,7 @@ You can use Intellij, netbeans or eclipse.
 
 # 05.10.2022 Java Camp Third Day
 
-nlayered architecture was introduced. 
+nLayered architecture was introduced. 
 * dataAccess
 * business
 * entities
