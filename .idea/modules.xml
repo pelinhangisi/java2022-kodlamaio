@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java2022-kodlamaio.iml" filepath="$PROJECT_DIR$/.idea/java2022-kodlamaio.iml" />
       <module fileurl="file://$PROJECT_DIR$/lessons/lessons.iml" filepath="$PROJECT_DIR$/lessons/lessons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lessons/oop1/oop1.iml" filepath="$PROJECT_DIR$/lessons/oop1/oop1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-1-assesments/week-1-assesments.iml" filepath="$PROJECT_DIR$/week-1-assesments/week-1-assesments.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-2-assesments/week-2-assesments.iml" filepath="$PROJECT_DIR$/week-2-assesments/week-2-assesments.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-3-assesments/week-3-assesments.iml" filepath="$PROJECT_DIR$/week-3-assesments/week-3-assesments.iml" />

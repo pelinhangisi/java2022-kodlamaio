@@ -1,4 +1,4 @@
-# 14.09.2022 Java Camp First Day
+## 14.09.2022 Java Camp First Day
 
 The first day was based on Java basics. <br>
 
@@ -8,7 +8,7 @@ The first day was based on Java basics. <br>
 
 <hr>
 
-# Week-1 Assesments
+## Week-1 Assesments
 
 https://www.youtube.com/watch?v=a8Fe2qbnYDM&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8&index=2
 
@@ -17,7 +17,7 @@ You can use Intellij, netbeans or eclipse.
 
 <hr>
 
-# 21.09.2022 Java Camp Second Day
+## 21.09.2022 Java Camp Second Day
 
 The second day was based on Inheritance.Models and Getter setter methods processed.
 
@@ -27,7 +27,7 @@ The second day was based on Inheritance.Models and Getter setter methods process
 
 <hr>
 
-# Week-2 Assesments
+## Week-2 Assesments
 
 https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8
 
@@ -36,7 +36,7 @@ You can use Intellij, netbeans or eclipse.
 
 <hr>
 
-# 05.10.2022 Java Camp Third Day
+## 05.10.2022 Java Camp Third Day
 
 nLayered architecture was introduced. 
 * dataAccess
@@ -49,7 +49,7 @@ layers processed.
 
 <hr>
 
-# Week-3 Assesments
+## Week-3 Assesments
 
 * Assesment 1: 
   * https://www.youtube.com/watch?v=H3QOQRh8cgk&list=PLqG356ExoxZWfcrBP53Njxir4a-OgqRki&index=2 
