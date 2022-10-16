@@ -4,7 +4,7 @@ The first day was based on Java basics. <br>
 
     * String, int, arrays, loop, if-else
 
-[Lessons code => intro file](https://github.com/pelinhangisi/java2022-kodlamaio/tree/master/intro)
+[Lessons code => intro file](https://github.com/pelinhangisi/java2022-kodlamaio/tree/master/lessons/intro)
 
 <hr>
 
