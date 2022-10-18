@@ -24,7 +24,7 @@ public class Main {
         CategoryManager categoryManager = new CategoryManager(new JdbcCategoryDao(), loggers);
         categoryManager.add(category1);
 
-        Course course1 = new Course(3, "Kotlin", "Mobil programing", 0);
+        Course course1 = new Course(4, "Project", "Examples", 75);
         CourseManager courseManager = new CourseManager(new HibernateCourseDao(), loggers);
         courseManager.add(course1);
 
