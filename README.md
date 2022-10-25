@@ -95,3 +95,14 @@ layers processed.
     https://www.youtube.com/watch?v=4U54EVknm2Q&list=PLqG356ExoxZXZQt9edXkCS-_dunCq-bXm
 
 <hr>
+
+
+## 25.10.2022 Java Camp Fourth Day
+
+Spring topic introduced. Data Access - Business - UI layered told. <br>
+CampSpring RentACar Project created. <br>
+The brand object is determined and its layers are created. We used swagger-ui and also checked api with postman. 
+
+
+
+[Lessons code => campspring - rentACar file](https://github.com/pelinhangisi/java2022-kodlamaio/tree/master/campspring/rentACar)
