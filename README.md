@@ -103,6 +103,9 @@ Spring topic introduced. Data Access - Business - UI layered told. <br>
 CampSpring RentACar Project created. <br>
 The brand object is determined and its layers are created. We used swagger-ui and also checked api with postman. 
 
+![structure](https://user-images.githubusercontent.com/96151920/197881139-5efb45dd-6f7c-47f0-b2b3-706d27a1dde0.JPG)
+![swagger1](https://user-images.githubusercontent.com/96151920/197881168-4cb02c99-d879-4e9b-9308-1cec2bb13fcd.JPG)
+![postman1](https://user-images.githubusercontent.com/96151920/197881202-7edd2b7c-3d3e-4071-94e5-7ef0c4572baf.JPG)
 
 
 [Lessons code => campspring - rentACar file](https://github.com/pelinhangisi/java2022-kodlamaio/tree/master/campspring/rentACar)
