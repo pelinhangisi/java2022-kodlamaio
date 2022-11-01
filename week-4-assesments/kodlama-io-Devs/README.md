@@ -8,3 +8,8 @@ Req 1: Programming languages should be kept in the system.
 * Names cannot be repeated.
 * Programming language cannot be left blank. (Solve algorithmically by writing code without using validation)
 
+
+
+![kodlamaiopic2](https://user-images.githubusercontent.com/96151920/199296172-cf0061b8-376e-4b45-a09e-27a291ec4664.JPG)
+
+![kodlamaiopic](https://user-images.githubusercontent.com/96151920/199296243-98e37b55-01e7-4a4f-8cc6-1f94fe433be7.JPG)
