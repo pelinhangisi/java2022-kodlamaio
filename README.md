@@ -109,3 +109,26 @@ The brand object is determined and its layers are created. We used swagger-ui an
 
 
 [Lessons code => campspring - rentACar file](https://github.com/pelinhangisi/java2022-kodlamaio/tree/master/campspring/rentACar)
+
+<hr>
+
+## Week-4 Assesments
+
+* Assesment 1: <br>
+  We want to write a project where we bring candidates' coding skills together with employers. <br>
+  Project name: Kodlama.io.Devs  <br>
+  Let's start with a simple requirement. <br>
+  Req 1: Programming languages should be kept in the system.
+  * Write codes that can add, delete, update, list, and fetch programming languages (C#, Java, Python). Make it completely in memory.
+  * Names cannot be repeated.
+  * Programming language cannot be left blank. (Solve algorithmically by writing code without using validation)
+
+<br>
+
+* Assesment 2: <br>
+  Do a research on the following topics and write a medium article.
+  * What is REST ?
+  * What are Http Keywords? Please explain.
+
+<hr>
+
