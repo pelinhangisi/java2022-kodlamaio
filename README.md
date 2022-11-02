@@ -132,3 +132,13 @@ The brand object is determined and its layers are created. We used swagger-ui an
 
 <hr>
 
+## 02.11.2022 Java Camp Fifth Day
+
+* We proceeded through the "rentACar" project created last week. application.properties - postgresql connection settings done.
+
+* Request - response packages are created and the data we will transfer to the customer is limited.
+
+* A database connection was provided on postgresql and the model was designed over the entity brand.
+
+* After the project was launched, both data addition and data listing operations were performed via swagger.
+
