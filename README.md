@@ -142,3 +142,12 @@ The brand object is determined and its layers are created. We used swagger-ui an
 
 * After the project was launched, both data addition and data listing operations were performed via swagger.
 
+![intellij](https://user-images.githubusercontent.com/96151920/199594792-57ae5c33-6427-4f59-89a0-c33a688a27d3.JPG)
+
+![swagger](https://user-images.githubusercontent.com/96151920/199594869-a1adb084-ba37-4f73-be23-6a0e0aebc552.JPG)
+
+![postgre](https://user-images.githubusercontent.com/96151920/199594895-920fe507-d965-4490-9ed7-d4cc965df7be.JPG)
+
+
+
+
